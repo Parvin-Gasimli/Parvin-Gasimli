@@ -1,4 +1,4 @@
-<img style="    height: 187px;
+<img style="height: 187px;
     width: 100%;
     object-fit: cover;" src="https://wallpapers.oceanofwallpapers.com/wallpapers/previews/wallpaper-dppj33-871370-Preview.webp"/>
 
