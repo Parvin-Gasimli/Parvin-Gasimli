@@ -1,5 +1,5 @@
-<img style="height: 307px;
-    width: 100%;object-fit: cover;" src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png"/>
+<img style="height: 200px;
+    width: 100%;object-fit: cover;" src="https://free4kwallpapers.com/uploads/originals/2020/10/19/minimal-dark-coding-wallpaper.png"/>
 
 <h2 align="center"> I'm Parvin Gasimli</h2>
 <h3 align="center">I'm Full Stack developer</h3>
