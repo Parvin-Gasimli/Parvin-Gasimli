@@ -1,5 +1,5 @@
-<img src="https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg"/>
-<h1 align="center">Hi 👋, I'm Parvin Gasimli</h1>
+<img style="heigth:200px" src="https://wallpapers.oceanofwallpapers.com/wallpapers/previews/wallpaper-dppj33-871370-Preview.webp"/>
+<h2 align="center"> I'm Parvin Gasimli</h2>
 <h3 align="center">I'm Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvin-gasimli&label=Profile%20views&color=0e75b6&style=flat" alt="parvin-gasimli" /> </p>
