@@ -1,4 +1,4 @@
-<img style="height: 287px;
+<img style="height: 307px;
     width: 100%;object-fit: cover;" src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png"/>
 
 <h2 align="center"> I'm Parvin Gasimli</h2>
