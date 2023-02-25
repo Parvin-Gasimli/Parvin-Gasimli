@@ -1,5 +1,5 @@
 <img style="height: 187px;
-    width: 100%;object-fit: cover;" src="https://wallpapers.oceanofwallpapers.com/wallpapers/previews/wallpaper-dppj33-871370-Preview.webp"/>
+    width: 100%;object-fit: cover;" src="https://e0.pxfuel.com/wallpapers/601/979/desktop-wallpaper-eat-sleep-code-repeat.jpg"/>
 
 <h2 align="center"> I'm Parvin Gasimli</h2>
 <h3 align="center">I'm Full Stack developer</h3>
